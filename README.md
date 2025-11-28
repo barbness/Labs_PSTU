@@ -8,12 +8,12 @@
 | 1.3 | :green_circle: (25.11.2025) | :green_circle: (25.11.2025) |
 | 2.1 | :green_circle: (25.11.2025) | :yellow_circle: |
 | 2.2 | :green_circle: (25.11.2025) | :yellow_circle: |
-| 2.3 | :yellow_circle: | :yellow_circle: |
-| 2.4 | :red_circle: | :red_circle: |
-| 2.5 | :red_circle: | :red_circle: |
-| 2.6 | :red_circle: | :red_circle: |
-| 2.7 | :red_circle: | :red_circle: |
-| 2.8 | :red_circle: | :red_circle: |
+| 2.3 | :green_circle: (29.11.2025) | :green_circle: (29.11.2025) |
+| 2.4 | :green_circle: (29.11.2025) | :red_circle: |
+| 2.5 | :green_circle: (29.11.2025) | :red_circle: |
+| 2.6 | :green_circle: (29.11.2025) | :red_circle: |
+| 2.7 | :green_circle: (29.11.2025) | :red_circle: |
+| 2.8 | :green_circle: (29.11.2025) | :red_circle: |
 | 2.9 | :red_circle: | :red_circle: |
 | 2.10 | :red_circle: | :red_circle: |
 | 2.11 | :red_circle: | :red_circle: |
@@ -32,7 +32,7 @@
 
 ## 1 семестр 
 
-| п/п |  Наименование | Статус | Ссылка на исходный код | Ссылка на схему |
+| п/п |  Наименование | Статус | пСсылка на исходный код | Ссылка на схему |
 | --- | --- | --- | --- | --- |
 |     |     |     |     |     |
 
