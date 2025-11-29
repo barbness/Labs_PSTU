@@ -6,7 +6,7 @@ int main(){
     int sp = N/2; 
     int st = 1; 
     if (N%2 == 0, N<3){
-        cout << "Нельзя вводить четное число и число, меньшее 3" << endl; 
+        cout << "Введите нечетное число больше 3" << endl; 
     }
     else{
         for (int i = 0; i < (N+1)/2; i++){
@@ -14,7 +14,7 @@ int main(){
             cout << " "; 
         }
         sp --; 
-        for (int j = 0; j < st; j++){
+        for (int k = 0; k < st; k++){
             cout << "*";
         }
         st += 2; 
