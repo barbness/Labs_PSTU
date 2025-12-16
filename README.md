@@ -26,8 +26,15 @@
 | 2.18 | :green_circle: (09.12.2025) | :green_circle: (09.12.2025) |
 | 2.19 | :green_circle: (09.12.2025) | :green_circle: (09.12.2025) |
 | 2.20 | :green_circle: (09.12.2025) | :green_circle: (09.12.2025) |
-| 2.21 | :yellow_circle: | :yellow_circle: |
-| 2.22 | :yellow_circle: | :yellow_circle: |
+| 2.21 | :green_circle: (16.12.2025) | :green_circle: (16.12.2025) |
+| 2.22 | :green_circle: (16.12.2025) | :green_circle: (16.12.2025) |
+| 2.23 | :green_circle: (16.12.2025) | :green_circle: (16.12.2025) |
+| ptr 1 | :green_circle: (16.12.2025) | :yellow_circle: |
+| ptr 2 | :green_circle: (16.12.2025) | :yellow_circle: |
+| ptr 3 | :yellow_circle: | :yellow_circle: |
+| ptr 4 | :yellow_circle: | :yellow_circle: |
+| ptr 5 | :yellow_circle: | :yellow_circle: |
+
 
 
 ## 1 семестр 
