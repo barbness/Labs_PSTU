@@ -1,7 +1,7 @@
 #include <iostream> 
 using namespace std; 
 int main(){
-    int N, tmp, S; 
+    int N, tmp, S=0; 
     cin >> N; 
     while(N > 0)
     {
