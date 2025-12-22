@@ -5,7 +5,9 @@
 ## 1 семестр 
 
 | п/п |  Наименование | Статус | Ссылка на исходный код | Ссылка на схему |
-| 1 | 1_1 | :green_circle: | https://github.com/barbness/Labs_PSTU/blob/main/Sem%201/1_1/1_1.cpp | https://github.com/barbness/Labs_PSTU/blob/main/Sem%201/1_1/1_1.png |
+| 1 | 1_1 | :green_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%201/1_1/1_1.cpp)  | [png](https://github.com/barbness/Labs_PSTU/blob/main/Sem%201/1_1/1_1.png) |
+|   |   |   |   |   |
+
 | 2 | 1_2 | :green_circle: | https://github.com/barbness/Labs_PSTU/blob/main/Sem%201/1_2/1_2.cpp | https://github.com/barbness/Labs_PSTU/blob/main/Sem%201/1_2/1_2.png |
 | 3 | 1_3 | :green_circle: | https://github.com/barbness/Labs_PSTU/blob/main/Sem%201/1_3/1_3.cpp | https://github.com/barbness/Labs_PSTU/blob/main/Sem%201/1_3/1_3.png |
 | 4 | 2_1 | :green_circle: | https://github.com/barbness/Labs_PSTU/blob/main/Sem%201/2_1/2_1.cpp | https://github.com/barbness/Labs_PSTU/blob/main/Sem%201/2_1/2_1.png |
