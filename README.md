@@ -46,4 +46,5 @@
 
 | п/п | Наименование | Статус | Ссылка на исходный код | Ссылка на схему |
 | --- | --- | --- | --- | --- |
-|     |     |     |     |     |
+| 1 | Лабораторная работа №4 | код: :green_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_4/lab4.cpp) |  |
+| 2 | Лабораторная работа №5 | код: :green_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_5/lab5.cpp) |  |
