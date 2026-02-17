@@ -1,7 +1,6 @@
 #include <iostream> 
 #include <cstdlib>
 #include <ctime>
-#include <cmath>
 using namespace std; 
 int main(){
     srand(time(0));
@@ -10,7 +9,6 @@ int main(){
     int N;
     cin >> N;
     int a[N][N];
-    int tmp;
     for (int i = 0; i < N; i++){
         for (int j = 0; j<N; j++){
                a[i][j] = ((double)rand() / RAND_MAX) * (range_max - range_min) + range_min;  
