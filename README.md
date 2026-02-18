@@ -48,3 +48,5 @@
 | --- | --- | --- | --- | --- |
 | 1 | Лабораторная работа №4 | код: :green_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_4/lab4.cpp) |  |
 | 2 | Лабораторная работа №5 | код: :green_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_5/lab5.cpp) |  |
+| 3 | Задачи типа 3 | :green_circle: | -> | [all](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/3/all_3.md) |
+| 4 | Создание динамических трехмерных массивов | :green_circle: | [1 способ](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/dinamic%20arr/dinamic_arr_1.cpp) [2 способ](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/dinamic%20arr/dinamic_arr_2.cpp) [3 способ](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/dinamic%20arr/dinamic_arr_3.cpp) | i dont know if i need them right now | 
