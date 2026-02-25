@@ -13,4 +13,3 @@
 | 3_11 | :green_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/3/3.11/3_11.cpp)  | [png](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/3/3.11/3_11.png) |
 | 3_12 | :green_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/3/3.12/3_12.cpp)  | [png](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/3/3.12/3_12.png) |
 | 3_13 | :green_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/3/3.13/3_13.cpp)  | [png](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/3/3.13/3_13.png) |
-

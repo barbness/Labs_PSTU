@@ -4,7 +4,6 @@ using namespace std;
 int main(){
     int massivi = 2, stroki = 4, stolbci = 3; 
 
-
     int *** arr = new int**[massivi];
     for (int i = 0; i < massivi; i++){
         arr[i] = new int*[stroki];
