@@ -1,15 +1,11 @@
-//напечатать все слова, которые содержат по одной цифре
-
+//напечатать все слова, которые содержат по одной цифрe 
 #include <iostream>
-#include <bits/stdc++.h>
 using namespace std; 
 
-//bool isDig(char a){
-//   if (('0' <= a) && (a <= '9')){
-   //     return true;
-    //}
-    //else {return false;}
-//}
+bool isdigit(char c) {
+    return c >= '0' && c <= '9';
+}
+
 main(){
     string str; 
     getline(cin, str); 
