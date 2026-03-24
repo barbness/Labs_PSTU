@@ -58,3 +58,9 @@
 | 10 | 6 зеленая методичка | :green_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_6/lab_6.cpp) | [png](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_6/lab_6.png) |
 | 11 | 9 зеленая методичка | :green_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_9/lab_9.cpp) | [png](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_9/lab_9.png) |
 | 12 | 8 зеленая методичка |  |  |  |
+| 13 | 11.1 |  |  |  |
+| 14 | 11.2 |  |  |  |
+| 15 | 11.3 |  |  |  | 
+| 16 | 11.4 |  |  |  |
+| 17 | Поиски (лин интер бин) |  |  |  | 
+| 18 | Поиски наивный строковой, кнут-моррис-пратт, бойер-мур |  |  |  | 
