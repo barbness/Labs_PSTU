@@ -48,13 +48,13 @@
 | --- | --- | --- | --- | --- |
 | 1 | Лабораторная работа №4 | :green_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_4/lab4.cpp) | [png](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_4/lab4.png) |
 | 2 | Лабораторная работа №5 | :green_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_5/lab5.cpp) | [png](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_5/lab5.png) |
-| 3 | Рекурсия на основе №3(все на рекурсии) |  |  |  |
+| 3 | Рекурсия на основе №3(все на рекурсии) | :yellow_circle: | [lab_3](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_3//lab_3/lab_3.cpp) [NOD](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_3/NOD/NOD.cpp) [fibonacci](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_3/fibonachi/fibonachi.cpp) |  |
 | 4 | Ханойская башня | :green_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/hanoiskaya_bashnya/hanoiskaya_bashnya.cpp) |  |
-| 5 | Задача о 8 ферзях |  |  |  |
+| 5 | Задача о 8 ферзях | :yellow_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/8_ferzei/8_ferzei.cpp) |  |
 | 6 | Простые сортировки | :green_circle: | [bubble sort](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/bubble_sort/bubble_sort.cpp) [insertion sort](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/insertion_sort/insertion_sort.cpp) [selection sort](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/selection_sort/selection_sort.cpp) | [bubble sort](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/bubble_sort/bubble_sort.png) [insertion sort](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/insertion_sort/insertion_sort.png) [selection sort](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/selection_sort/selection_sort.png) |
 | 7 | 10 зеленая методичка | :green_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_10/lab_10.cpp) | [png](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_10/lab_10.png) |
 | 8 | 7.1 зеленая методичка | :green_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_7_1/lab_7_1.cpp) | [png](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_7_1/lab_7_1.png) |
-| 9 | 7.2 зеленая методичка |  |  |  |
+| 9 | 7.2 зеленая методичка | :yellow_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_7_1/lab_7_1.cpp) | [png](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_7_2/lab_7_2.cpp) |  |
 | 10 | 6 зеленая методичка | :green_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_6/lab_6.cpp) | [png](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_6/lab_6.png) |
 | 11 | 9 зеленая методичка | :green_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_9/lab_9.cpp) | [png](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_9/lab_9.png) |
 | 12 | 8 зеленая методичка |  |  |  |
