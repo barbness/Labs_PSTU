@@ -58,9 +58,13 @@
 | 10 | 6 зеленая методичка | :green_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_6/lab_6.cpp) | [png](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_6/lab_6.png) |
 | 11 | 9 зеленая методичка | :green_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_9/lab_9.cpp) | [png](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_9/lab_9.png) |
 | 12 | 8 зеленая методичка |  |  |  |
-| 13 | 11.1 |  |  |  |
-| 14 | 11.2 |  |  |  |
-| 15 | 11.3 |  |  |  | 
+| 13 | 11.1 | :yellow_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_11/lab_11_1/lab_11_1.cpp) |  |
+| 14 | 11.2 | :yellow_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_11/lab_11_2/lab_11_2.cpp) |  |
+| 15 | 11.3 | :yellow_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_11/lab_11_3/lab_11_3.cpp) |  | 
 | 16 | 11.4 |  |  |  |
 | 17 | Поиски (лин интер бин) |  |  |  | 
 | 18 | Поиски наивный строковой, кнут-моррис-пратт, бойер-мур |  |  |  | 
+| 19 |  |  |  |  |
+| 20 |  |  |  |  |
+| 21 |  |  |  |  |
+| 22 |  |  |  |  |
