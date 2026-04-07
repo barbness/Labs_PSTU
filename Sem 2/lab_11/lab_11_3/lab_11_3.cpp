@@ -89,7 +89,7 @@ void del(Stack& s, int num) {
 }
 
 void pushnum(Stack& s, int num, int k){
-    if (num < 1 || num > s.size) cout << "Невозможно добавить элемент" << endl;;
+    if (num < 1 || num > s.size) cout << "Невозможно добавить элемент" << endl;
 
     Stack tmp, added;
     tmp.init();
