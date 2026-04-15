@@ -10,10 +10,10 @@ int main()
         cout << arr[i] << " ";
     }
     cout << endl;
+
     for (int i = 0; i < N-1; i++){
         min_index = i;
-        for (int j = i+1; j < N; j++)
-        {
+        for (int j = i+1; j < N; j++){
             if (arr[j] < arr[min_index]){ min_index = j;}
         }
         tmp = arr[min_index];

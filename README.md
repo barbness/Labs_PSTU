@@ -48,27 +48,27 @@
 | --- | --- | --- | --- | --- |
 | 1 | Лабораторная работа №4 | :green_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_4/lab4.cpp) | [png](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_4/lab4.png) |
 | 2 | Лабораторная работа №5 | :green_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_5/lab5.cpp) | [png](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_5/lab5.png) |
-| 3 | Рекурсия на основе №3(все на рекурсии) | :yellow_circle: | [lab_3](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_3//lab_3/lab_3.cpp) [NOD](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_3/NOD/NOD.cpp) [fibonacci](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_3/fibonachi/fibonachi.cpp) |  |
-| 4 | Ханойская башня | :yellow_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/hanoiskaya_bashnya/hanoiskaya_bashnya.cpp) |  |
-| 5 | Задача о 8 ферзях | :yellow_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/8_ferzei/8_ferzei.cpp) |  |
+| 3 | Рекурсия на основе №3(все на рекурсии) | :yellow_circle: | [lab_3](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_3//lab_3/lab_3.cpp) [NOD](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_3/NOD/NOD.cpp) [fibonacci](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_3/fibonachi/fibonachi.cpp) | [lab_3](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_3//lab_3/lab_3.png) [NOD](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_3/NOD/NOD.png) [fibonacci](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_3/fibonachi/fibonachi.png) |
+| 4 | Ханойская башня | :yellow_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/hanoiskaya_bashnya/hanoiskaya_bashnya.cpp) | [png](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/hanoiskaya_bashnya/hanoiskaya_bashnya.png) |
+| 5 | Задача о 8 ферзях | :yellow_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/8_ferzei/8_ferzei.cpp) | [png](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/8_ferzei/8_ferzei.png) |
 | 6 | Простые сортировки | :green_circle: | [bubble sort](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/bubble_sort/bubble_sort.cpp) [insertion sort](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/insertion_sort/insertion_sort.cpp) [selection sort](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/selection_sort/selection_sort.cpp) | [bubble sort](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/bubble_sort/bubble_sort.png) [insertion sort](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/insertion_sort/insertion_sort.png) [selection sort](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/selection_sort/selection_sort.png) |
 | 7 | 10 зеленая методичка | :green_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_10/lab_10.cpp) | [png](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_10/lab_10.png) |
 | 8 | 7.1 зеленая методичка | :green_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_7_1/lab_7_1.cpp) | [png](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_7_1/lab_7_1.png) |
-| 9 | 7.2 зеленая методичка | :green_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_7_1/lab_7_1.cpp) | [png](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_7_2/lab_7_2.cpp) |  |
+| 9 | 7.2 зеленая методичка | :green_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_7_1/lab_7_1.cpp) | [png](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_7_2/lab_7_2.cpp) |
 | 10 | 6 зеленая методичка | :green_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_6/lab_6.cpp) | [png](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_6/lab_6.png) |
 | 11 | 9 зеленая методичка | :green_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_9/lab_9.cpp) | [png](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_9/lab_9.png) |
 | 12 | 8 зеленая методичка | :yellow_circle: |  |  |
-| 13 | 11.1 | :yellow_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_11/lab_11_1/lab_11_1.cpp) |  |
-| 14 | 11.2 | :yellow_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_11/lab_11_2/lab_11_2.cpp) |  |
-| 15 | 11.3 | :yellow_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_11/lab_11_3/lab_11_3.cpp) |  | 
+| 13 | 11.1 | :green_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_11/lab_11_1/lab_11_1.cpp) | [png](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_11/lab_11_1/lab_11_1.png) |
+| 14 | 11.2 | :green_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_11/lab_11_2/lab_11_2.cpp) | [png](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_11/lab_11_2/lab_11_2.png) |
+| 15 | 11.3 | :green_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_11/lab_11_3/lab_11_3.cpp) | [png](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_11/lab_11_3/lab_11_3.png) | 
 | 16 | 11.4 | :yellow_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/lab_11/lab_11_4/lab_11_4.cpp) |  |
-| 17 | Поиски (лин интер бин) |  |  |  | 
-| 18 | Поиски наивный строковой, кнут-моррис-пратт, бойер-мур |  |  |  |
-| 19 | Быстрые сортировки (Ломуто, слиянием, блочная, подсчетом) |  |  |  | 
-| 20 | Быстрые сортировки (Шелла и Хоара) |  |  |  |
-| 21 | Внешние сортировки |  |  |  |
+| 17 | Поиски (лин интер бин) | :yellow_circle: | [lin](https://github.com/barbness/Labs_PSTU/Sem%202/easy_searches/lin_search/lin_serach.cpp) [bin](https://github.com/barbness/Labs_PSTU/Sem%202/easy_searches/bin_search/bin_serach.cpp) [inter](https://github.com/barbness/Labs_PSTU/Sem%202/easy_searches/iter_search/iter_search.cpp) |  | 
+| 18 | Поиски наивный строковой, кнут-моррис-пратт, бойер-мур | :yellow_circle: | [naive](https://github.com/barbness/Labs_PSTU/Sem%202/searches_string/naive_search/naive_search.cpp) [KMP](https://github.com/barbness/Labs_PSTU/Sem%202/searches_string/KMP_search/KMP_search.cpp)  |  |
+| 19 | Быстрые сортировки (Ломуто, слиянием, блочная, подсчетом) | :yellow_circle: | [Lomuto](https://github.com/barbness/Labs_PSTU/Sem%202/fast_sorts/lomuto_sort/lomuto_sort.cpp) [merge](https://github.com/barbness/Labs_PSTU/Sem%202/fast_sorts/merge_sort/merge_sort.cpp) [bucket](https://github.com/barbness/Labs_PSTU/Sem%202/fast_sorts/bucket_sort/bucket_sort.cpp) [counting](https://github.com/barbness/Labs_PSTU/Sem%202/fast_sorts/counting_sort/counting_sort.cpp) |  | 
+| 20 | Быстрые сортировки (Шелла и Хоара) | :yellow_circle: | [Shell](https://github.com/barbness/Labs_PSTU/Sem%202/fast_sorts/shell_sort/shell_sort.cpp) [Hoare](https://github.com/barbness/Labs_PSTU/Sem%202/fast_sorts/hoare_sort/hoare_sort.cpp) |  |
+| 21 | Внешние сортировки | :yellow_circle: |  |  |
 | 22 | Хэши |  |  |  |
-| 23 | классы 1 | :yelllow_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/classes/c_1) |  |
+| 23 | классы 1 | :yellow_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/classes/c_1) |  |
 | 24 | классы 2 |  |  |  |
 | 25 | классы 3 |  |  |  |
 | 26 | классы 4 |  |  |  |

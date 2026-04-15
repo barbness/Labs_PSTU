@@ -5,11 +5,11 @@ using namespace std;
 int main(){
     double first, second, x; 
 
-    cout << "Введите правую границу: "; 
+    cout << "Введите левую границу: "; 
     cin >> first; 
     cout << endl; 
 
-    cout << "Введите левую границу: ";
+    cout << "Введите правую границу: ";
     cin >> second; 
     cout << endl; 
 
