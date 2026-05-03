@@ -1,8 +1,7 @@
 #include <iostream>
 using namespace std; 
 
-void countSort(int arr[], int size)
-{
+void countSort(int arr[], int size){
     if (size <= 1) return;
 
     int max = arr[0];
@@ -42,8 +41,8 @@ int main(){
     countSort(a, N);
     cout << "Sorted massive: " << endl; 
 
-    for (int i = 0; i < N; i++)
+    for (int i = 0; i < N; i++){
         cout << a[i] << " ";
-
+    }
     return 0;
 }

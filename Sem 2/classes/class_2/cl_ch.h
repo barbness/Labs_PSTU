@@ -18,4 +18,6 @@ class Chislo{
     float getMant() const;
     int getPor() const;
     string getStroka() const;
+
+    ~Chislo();
 };
