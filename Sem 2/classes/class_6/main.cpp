@@ -15,8 +15,8 @@ int main(){
     Vector v2(v1); 
     std::cout << v2() << std::endl;
 
-    Vector v2 = v1*3;
-    std::cout << v2 << std::endl; 
+    Vector v3 = v1 * 3;
+    std::cout << v3 << std::endl;
 
     Vector::Iterator left = v1.end() - 2;
     std::cout << *left << std::endl; 

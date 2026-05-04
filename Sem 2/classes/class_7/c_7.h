@@ -38,8 +38,6 @@ public:
     Vector(const Vector<T>& other);
     ~Vector();
 
-    Vector<T>& operator=(const Vector<T>& a);
-
     T& operator[](int index);
     Vector<T> operator*(const int k);
     int operator()();

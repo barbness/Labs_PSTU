@@ -8,7 +8,11 @@ Vector::Vector(int s, int k) {
         data[i] = k;
     }
 }
-Vector::Vector(const Vector& other): size(other.size), data(other.data){}
+Vector::Vector(const Vector& other) : size(other.size), data(new int[other.size]) {
+    for (int i = 0; i < size; i++) {
+        data[i] = other.data[i];
+    }
+}
 
 Vector::~Vector(){delete[] data;}
 
@@ -44,6 +48,20 @@ std::istream& operator>>(std::istream& in, Vector& a) {
     }
 
     return in;
+}
+
+Vector& Vector::operator=(const Vector& a) {
+    if (this != &a) {
+        delete[] data;
+        size = a.size;
+        data = new int[size];
+
+        for (int i = 0; i < size; i++) {
+            data[i] = a.data[i];
+        }
+    }
+
+    return *this;
 }
 
 Vector::Iterator Vector::begin() {

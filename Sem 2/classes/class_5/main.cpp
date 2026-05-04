@@ -20,7 +20,9 @@ int main(){
     Complex c3(c1);
 
     Pair* c6 = c3 + c2;
-    cout << c6->firstGet() << "," <<c6->secondGet() << endl;
+    cout << c6->firstGet() << "," << c6->secondGet() << endl;
+    delete c6;
+    
     Complex c4 = c3 - c2;
     printComplex(c4);
     cout << endl;

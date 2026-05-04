@@ -22,5 +22,12 @@ void Complex::setImage(int i){image_part = i;}
 int Complex::getReal() const {return real_part;}
 int Complex::getImage() const {return image_part;}
 
-Complex Complex::operator*(const Complex& other) {return Complex((this->real_part * other.real_part) - (this->image_part * other.image_part), (this->real_part * other.image_part) - (this->image_part * other.real_part));}
-Complex Complex::operator-(const Complex& other) {return Complex(this->real_part - other.real_part, this->image_part - other.image_part);}
+Complex Complex::operator*(const Complex& other) {
+    return Complex((this->real_part * other.real_part) - (this->image_part * other.image_part),
+                   (this->real_part * other.image_part) + (this->image_part * other.real_part));
+}
+
+Complex Complex::operator-(const Complex& other) {
+    return Complex(this->real_part - other.real_part,
+                   this->image_part - other.image_part);
+}
