@@ -75,8 +75,8 @@
 | 27 | классы 5 | :yellow_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/classes/class_5) | [UML](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/classes/class_1/c_5.png) |
 | 28 | классы 6 | :yellow_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/classes/class_6) | [UML](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/classes/class_1/c_6.png) |
 | 30 | классы 7 | :yellow_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/classes/class_7) | [UML](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/classes/class_1/c_7.png) |
-| 31 | классы 8 | :yellow_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/classes/class_8) |  |
-| 32 | классы 9 | :yellow_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/classes/class_9) |  |
+| 31 | классы 8 | :yellow_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/classes/class_8) | [UML](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/classes/class_1/c_8.png) |
+| 32 | классы 9 | :yellow_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/classes/class_9) | [UML](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/classes/class_1/c_9.png) |
 | 33 | классы 10 | :yellow_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/classes/class_10) |  |
 | 34 | классы 11 | :yellow_circle: | [code](https://github.com/barbness/Labs_PSTU/blob/main/Sem%202/classes/class_11) |  |
 | 35 | классы 12 |  |  |  |
