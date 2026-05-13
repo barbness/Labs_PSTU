@@ -1,7 +1,7 @@
 #include "Time.h"
 
 Time::Time(): min(0), sec(0) {}
-Time::Time(int m, int s): min(m), sec(s){}
+Time::Time(int m, int s): min(m), sec(s){Normalize();}
 Time::Time(const Time& other): min(other.min), sec(other.sec){}
 
 void Time::Normalize() {

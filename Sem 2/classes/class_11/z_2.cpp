@@ -70,7 +70,7 @@ int main() {
     AddMaxToEnd(d);
     PrintDeque(d);
 
-    cout << endl << "2. Найти элемент с ключом 4 и удалить его:" << endl;
+    cout << endl << "2. Найти элемент с ключом 2:40 и удалить его:" << endl;
     DeleteByKey(d, Time(2, 40));
     PrintDeque(d);
 

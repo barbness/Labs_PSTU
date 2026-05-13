@@ -2,7 +2,7 @@
 #include <fstream>
 #include <string>
 #include <clocale>
-#include "Time.h"
+#include "time.h"
 
 using namespace std;
 
